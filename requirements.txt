@@ -1,0 +1,3 @@
+pip install discord
+pip install discord[voice]
+pip3.6 install discord.py[voice]==0.16.12
